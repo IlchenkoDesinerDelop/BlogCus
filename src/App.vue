@@ -10,6 +10,7 @@ import Post__List from "./components/Post__List.vue";
 
     <Header__menu/>
     <Post__List/>
+    
     <!-- <Footer__contact/> -->
 </template>
 
